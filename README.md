@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/14973822/141505274-99446a02-4c0a-4a94-b4ae-3c8617bd6d0f.png)
 ![image](https://user-images.githubusercontent.com/14973822/141505370-3077bde6-66dd-42ee-8c65-6a9c17bfd72f.png)
 
-# Файл чеклист новогдняя открытка.png
+# Файл чеклист для приложения новогдняя открытка.png
 
 Тестовое задание:
 
